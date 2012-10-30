@@ -1,0 +1,3 @@
+[submodule "cookbooks/chef-zookeeper"]
+	path = cookbooks/chef-zookeeper
+	url = git@github.com:psyho/chef-zookeeper.git
